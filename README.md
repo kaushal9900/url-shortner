@@ -65,9 +65,7 @@ To set up and use the URL shortener service, follow these steps:
 
 1. Clone the repository or download the project files.
 2. Navigate to the project directory.
-3. Open the `docker-compose.yml` file and configure the domain and API endpoint for the service.
-4. Open a terminal or command prompt and navigate to the project directory.
-5. Run the following command to start the services:
+3. Run the following command to start the services:
 
    ```
    docker-compose up -d
@@ -75,4 +73,4 @@ To set up and use the URL shortener service, follow these steps:
 
    This will start the URL shortener service and any required dependencies defined in the `docker-compose.yml` file.
 
-6. Once the services are up and running, you can start using the API endpoint to generate short URLs by sending POST requests with the required payload.
+4. Once the services are up and running, you can start using the API endpoint to generate short URLs by sending POST requests with the required payload.

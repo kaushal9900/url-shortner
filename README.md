@@ -6,11 +6,11 @@ This is a URL shortener service that allows you to convert long URLs into shorte
 
 ### Base URL
 
-The base URL for accessing the API is: `https://your-domain.com/api/v1`
+The base URL for accessing the API is: `http://your-domain.com/api/v1`
 
 ### Endpoint
 
-#### POST `https://your-domain.com/api/v1`
+#### POST `http://your-domain.com/api/v1`
 
 This endpoint generates a short URL for a given long URL. Provide Body as sample Request payload given
 

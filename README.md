@@ -10,9 +10,9 @@ The base URL for accessing the API is: `https://your-domain.com/api/v1`
 
 ### Endpoint
 
-#### POST `/<url>`
+#### POST `https://your-domain.com/api/v1>`
 
-This endpoint generates a short URL for a given long URL.
+This endpoint generates a short URL for a given long URL. Provide Body as sample Request payload given
 
 ##### Request Payload
 
